@@ -2,4 +2,6 @@
 
 Hello Word!
 
-Ala ma kota
+
+
+Plik zmodyfikowany przez kogoś innego
